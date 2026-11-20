@@ -1,0 +1,5 @@
+segment,customer_count,average_age,average_annual_income_k,average_spending_score,average_monthly_purchases,average_order_value,average_tenure_months
+0,97,48.0,105.18,27.75,2.35,1748.35,38.75
+1,97,26.43,56.88,65.01,7.03,2480.07,36.67
+2,108,38.97,95.92,81.64,10.22,4173.95,33.2
+3,98,41.35,39.09,28.28,2.14,1078.24,36.03
